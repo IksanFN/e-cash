@@ -1,0 +1,11 @@
+Username akun : epiz_31491343
+Password akun : gDwtk52mPWiQ7yR
+
+// Database
+Database : epiz_31491343_cash
+Username : epiz_31491343
+Host : sql103.epizy.com
+Password : gDwtk52mPWiQ7yR
+
+// Link
+https://app.infinityfree.net/accounts/epiz_31491343
