@@ -1,9 +1,9 @@
 <?php 
 
-$host = "sql103.epizy.com";
-$user = "epiz_31491343";
-$password = "gDwtk52mPWiQ7yR";
-$dbName = "epiz_31491343_cash";
+$host = "localhost";
+$user = "root";
+$password = "";
+$dbName = "e-cash";
 
 $koneksi = mysqli_connect($host, $user, $password, $dbName);
 
